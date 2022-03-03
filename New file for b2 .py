@@ -3,7 +3,7 @@
 import math
 numForSqrt=float(input("Enter number as input for square root calculation: "))
 
-print("Square root of entered number: ",math.sqrt(numForSqrt))
+print("The Square root of entered number: ",math.sqrt(numForSqrt))
 
 #Output
 '''
