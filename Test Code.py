@@ -1,5 +1,6 @@
 '''Python program which accept the radius of a circle from the user and compute
 the area'''
+print("Welcome to program to find area of circle")
 x=float(input("Enter radius of circle: "))
 y=3.14*x*x
 print("Area of circle for given radius: ",y)
