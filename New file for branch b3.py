@@ -8,7 +8,7 @@ c=float(input("Enter value of third coeffient of quadratic equation (c) : "))
 x1= (-b+cmath.sqrt(b**b-4*a*c))/(2*a)
 x2= (-b-cmath.sqrt(b**b-4*a*c))/(2*a)
 
-print("Values of x in quadratic equation for entered coefficients are: ",x1," and ",x2)
+print("The Values of x in quadratic equation for entered coefficients are: ",x1," and ",x2)
 
 #Output
 '''
